@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_sPTpEMa5EeiQ-914XrOd8w">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_tFSO0Ma5EeiQ-914XrOd8w" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_wz7DwMa5EeiQ-914XrOd8w" elementId="project1002-ast-table-bala.partdescriptor.simpletable-ast-table-b" label="Simple Table-ast-table-b" contributionURI="bundleclass://project1002-ast-table-Bala/view.CViewer"/>
+  </fragments>
+</fragment:ModelFragments>
